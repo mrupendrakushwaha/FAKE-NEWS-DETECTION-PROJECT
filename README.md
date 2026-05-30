@@ -1,58 +1,78 @@
-# FAKE-NEWS-DETENTION-PROJECT
-# Fake News Detection Project
+# 📰 Fake News Detection Project
 
-## Overview
-This project is a Fake News Detection System developed using Python and Machine Learning. It analyzes news articles and predicts whether the news is Real or Fake.
+## 🎯 Overview
+This project is a Fake News Detection System developed using Python and Machine Learning. It analyzes news articles and predicts whether the news is **Real** or **Fake**.
 
-## Features
-- Detects Fake and Real News
-- User-friendly prediction system
-- Text preprocessing and cleaning
-- Machine Learning based classification
-- Google Colab compatible
+## ✨ Features
+✅ Detects Fake and Real News  
+✅ User-friendly prediction system  
+✅ Text preprocessing and cleaning  
+✅ Machine Learning based classification  
+✅ Google Colab compatible  
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Google Colab
+## 🛠️ Technologies Used
+- 🐍 Python
+- 📊 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-learn
+- ☁️ Google Colab
 
-## Project Structure
-• Fake_News_Detection.ipynb
-• dataset.csv
-• README.md
+## 📂 Dataset Used
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mrupendrakushwaha/FAKE-NEWS-DETENTION-PROJECT.git
-   ```
+This project uses the **Fake and Real News Dataset** from Kaggle.
 
-2. Open the project in Google Colab.
+🔗 Dataset Link:  
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
-3. Install required libraries:
-   ```bash
-   pip install pandas numpy scikit-learn
-   ```
+### 📋 Dataset Information
+- 📄 Fake.csv → Contains fake news articles
+- 📄 True.csv → Contains real news articles
+- 📈 Total Articles: 45,000+
+- 📰 Features:
+  - Title
+  - Text
+  - Subject
+  - Date
 
-4. Run all cells.
+## 🚀 How to Run
 
-5. Enter a news article to check whether it is Real or Fake.
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/mrupendrakushwaha/FAKE-NEWS-DETENTION-PROJECT.git
+```
 
-## Output
-The system displays only one result:
-- Real
-- Fake
+### 2️⃣ Install Required Libraries
+```bash
+pip install pandas numpy scikit-learn
+```
 
-## Future Improvements
-- Improve prediction accuracy
-- Add web interface
-- Use advanced NLP models
-- Deploy online
+### 3️⃣ Run the Project
+Open the notebook in Google Colab and run all cells.
 
-## Author
-**Upendra Kushwaha**
+## 📊 Output
 
-## Repository
+The system predicts:
+
+🟢 Real News
+
+🔴 Fake News
+
+## 🔮 Future Improvements
+
+- 🌐 Web Application
+- 📱 Mobile App Integration
+- 🧠 Advanced NLP Models
+- ☁️ Cloud Deployment
+
+## 🙏 Acknowledgement
+
+Special thanks to **Clément Bisaillon** for providing the dataset on Kaggle.
+
+## 👨‍💻 Author
+
+### 🌟 Upendra Kushwaha
+
+📌 GitHub Repository:
 https://github.com/mrupendrakushwaha/FAKE-NEWS-DETENTION-PROJECT
+
+⭐ If you like this project, don't forget to Star the
