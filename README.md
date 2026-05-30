@@ -38,7 +38,7 @@ https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/mrupendrakushwaha/FAKE-NEWS-DETENTION-PROJECT.git
+git clone https://github.com/mrupendrakushwaha/FAKE-NEWS-DETECTION-PROJECT.git
 ```
 
 ### 2️⃣ Install Required Libraries
