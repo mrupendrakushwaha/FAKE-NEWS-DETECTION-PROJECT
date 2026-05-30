@@ -49,15 +49,16 @@ pip install pandas numpy scikit-learn
 ### 3️⃣ Run the Project
 Open the notebook in Google Colab and run all cells.
 
-## 📊 Output
+## 📸 Project Output
 
-The system predicts:
+### Real News Detection
+![Real News Output](real_news_output.jpg)
 
-🟢 Real News
+### Fake News Detection
+![Fake News Output](fake_news_output.jpg)
 
-🔴 Fake News
 
-## 🔮 Future Improvements
+##🔮 Future Improvements
 
 - 🌐 Web Application
 - 📱 Mobile App Integration
