@@ -32,7 +32,16 @@ https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
   - Title
   - Text
   - Subject
-  - Date 
+  - Date
+  
+## 🤖 Machine Learning Models Used
+
+- Logistic Regression (LR)
+- Decision Tree Classifier (DT)
+- Gradient Boosting Classifier (GBC)
+- Random Forest Classifier (RFC)
+
+The project compares predictions from multiple Machine Learning models to classify news articles as Real or Fake.
 
 ## 🚀 How to Run
 
@@ -57,8 +66,7 @@ Open the notebook in Google Colab and run all cells.
 ### Fake News Detection
 ![Fake News Output](fake_news_output.jpg)
 
-
-##🔮 Future Improvements
+## 🚀🔮 Future Improvements
 
 - 🌐 Web Application
 - 📱 Mobile App Integration
